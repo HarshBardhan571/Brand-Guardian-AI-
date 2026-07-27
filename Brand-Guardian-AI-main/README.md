@@ -287,10 +287,10 @@ LANGCHAIN_PROJECT=
 
 # 👨‍💻 Author
 
-## Jatin Vandranki
+## Harsh Bardhan Singh
 
 AI/ML Engineer | Python | Azure AI | LLMOps | LangChain | LangGraph
 
-GitHub: https://github.com/jatinvandranki
+GitHub: https://github.com/HarshBardhan571
 
-LinkedIn: www.linkedin.com/in/jatin-vandranki-394a01290
+LinkedIn: https://www.linkedin.com/in/harsh-bardhan-singh-618179291/
