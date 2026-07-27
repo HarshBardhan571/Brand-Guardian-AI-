@@ -228,7 +228,7 @@ During development the following production issues were resolved:
 Clone repository
 
 ```bash
-git clone https://github.com/<jatinvandranki>/Brand_Guardian.git
+git clone https://github.com/<HarshBardhan571>/Brand_Guardian.git
 ```
 
 Install dependencies
